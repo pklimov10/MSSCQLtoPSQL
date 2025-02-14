@@ -38,14 +38,14 @@
 ## Установка
 
 ```bash
-git clone <repository-url>
+git clone (https://github.com/pklimov10/MSSCQLtoPSQL.git)
 cd mssql-to-postgresql-converter
 ```
 
 ## Использование
 
 ```bash
-python script.py input_file.sql output_file.sql
+python3 script.py input_file.sql output_file.sql
 ```
 
 ### Параметры
